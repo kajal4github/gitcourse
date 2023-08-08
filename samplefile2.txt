@@ -1,3 +1,7 @@
 This is sample File 2
 Adding another line in samplefile2.txt
+<<<<<<< Updated upstream
 Change in samplefile2 after stashing
+=======
+Change in file content for checking git stash
+>>>>>>> Stashed changes
